@@ -16,8 +16,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <sonar.projectKey>nilaydas1_cts-sonar1</sonar.projectKey>
-  <sonar.organization>nilaydas1</sonar.organization>
+    <sonar.projectKey>Priya-goddli_lakshmipriya.goddli-gmail.com</sonar.projectKey>
+  <sonar.organization>priya-goddli</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
@@ -27,6 +27,7 @@
     <version>1.18.18</version>
     <scope>compile</scope>
 </dependency>
+    
   
     <dependency>
       <groupId>junit</groupId>
